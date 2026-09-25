@@ -1,6 +1,6 @@
-#2.1.2
-whoami
-pwd
+#2.1.2  
+whoami  
+pwd  
 #2.1.3
 cd /
 cd ..
